@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="(https://cdn.discordapp.com/attachments/1412747115695833138/1543142644153057310/Untitled980_20260829011733.png?ex=6aaa3494&is=6aa8e314&hm=62c849ce5b60d073d61638f26bbc8be69304cffa338b0486df577304e8e07681&)" width="400px" />
+  <img src="<img width="736" height="736" alt="Untitled980_20260829011733 (1)" src="https://github.com/user-attachments/assets/8b32af0b-b650-4df0-8004-d93688023fa6" />
+" width="400px" />
 </p>
